@@ -16,3 +16,6 @@ Finished setting up all the basic stuff. UI mostly complete.
 Future stuff - Change out / add music, change the character model, implement a hunger system, adjust the time cycle, refine the terrain, implement a weather system, implement a combat system,
 and implement the win condition (the special Ore).
 
+Log 3 (7/5/2026) - 
+
+BUG UPDATE --- I replaced the "new terrain" asset that was missing with "new terrain 1". I effectivbely replaced the terrain from scratch.
