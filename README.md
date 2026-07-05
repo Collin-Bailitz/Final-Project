@@ -8,3 +8,11 @@ Log 1 (7/4/2026) -
 Setting up the map and all the basic stuff. 
 
 Future stuff - making enemy npcs, collection feature, changing player character model, hunger mechanic, combat mechanic.
+
+Log 2 (7/5/2026) - 
+
+Finished setting up all the basic stuff. UI mostly complete.
+
+Future stuff - Change out / add music, change the character model, implement a hunger system, adjust the time cycle, refine the terrain, implement a weather system, implement a combat system,
+and implement the win condition (the special Ore).
+
