@@ -3,10 +3,10 @@ using TMPro;
 
 public class ResourceCounter : MonoBehaviour
 {
-    public TextMeshProUGUI appleText;
+    public TextMeshProUGUI fruitText;
     public TextMeshProUGUI oreText;
 
-    private int apples;
+    private int fruits;
     private int ores;
 
     // Start is called before the first frame update
@@ -17,15 +17,15 @@ public class ResourceCounter : MonoBehaviour
 
     private void UpdateUI()
     {
-        appleText.text = "Apples: " + apples;
+        fruitText.text = "Fruits: " + fruits;
         oreText.text = "Ores: " + ores;
     }
 
     public void AddResource(string resourceName, int amount)
     {
-        if (resourceName == "Apple")
+        if (resourceName == "Fruit")
         {
-            apples += amount;
+            fruits += amount;
         }
         else if (resourceName == "Ore")
         {

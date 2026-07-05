@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class InteractableResource : MonoBehaviour
 {
-    public string resourceName = "Apple";
+    public string resourceName = "Fruit";
     public int amountPerCollect = 1;
     public int usesRemaining = 1;
 
